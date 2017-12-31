@@ -8,8 +8,8 @@ Installation
 
 `go get github.com/six519/pastebin`
 
-List Trending Pastes
-====================
+Create Paste
+============
 ::
 
     package main
